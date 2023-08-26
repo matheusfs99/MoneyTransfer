@@ -1,3 +1,5 @@
+Projeto baseado no [Desafio do PicPay](https://github.com/PicPay/picpay-desafio-backend)
+
 Usuários:
 Tipo (lojista, comum)
 Nome completo, cpf(unico), email(unico), senha
